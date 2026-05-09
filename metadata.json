@@ -1,0 +1,6 @@
+{
+  "name": "NeonSnake Audio",
+  "description": "A dark neon stylized Snake game with a built-in music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
